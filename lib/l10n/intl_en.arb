@@ -1,0 +1,14 @@
+{
+    "aboutDesc": "Dynamic and results-oriented software developer with 8 years of experience in Android development and a recent focus on Flutter over the past 2 years. Proven track record of designing and implementing scalable, high-performance applications for a diverse range of industries. Adept at working with cross-functional teams to deliver projects that exceed expectations. Passionate about staying ahead of the curve with the latest technologies and industry trends to create innovative solutions that drive business success.",
+    "aboutGreeting": "{greeting, select, em {Good morning, early bird} m {Good Morning} a {Good Afternoon} e {Good Evening} n {Hi there, night owl} other {Hello}}. I''m ",
+    "blogMinutes": "Min",
+    "footerCredit": "Based on designs by Nicolas Meuzard",
+    "footerPower": "Powered by Flutter",
+    "notFoundDespise": "Looks like you are lost ... on a single page application, duh!",
+    "notFoundHome": "Take me back to 127.0.0.1",
+    "notFoundInterjection": "Oh no!",
+    "tabBlog": "03.  Projects",
+    "tabExperience": "01.  Skills",
+    "tabProjects": "02.  Experience",
+    "title": "Zaib Niaz"
+}
